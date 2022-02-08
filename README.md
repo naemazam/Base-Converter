@@ -23,3 +23,6 @@ Also, the design of this system is pretty simple so that the user won’t get an
 
 # Run
 you must have installed Dev C++ or Code Blocks on your PC. (we recommend these IDE)
+
+# Video Tutorial 
+
