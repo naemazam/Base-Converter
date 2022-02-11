@@ -26,3 +26,4 @@ you must have installed Dev C++ or Code Blocks on your PC. (we recommend these I
 
 # Video Tutorial 
 
+[Play Now](https://youtu.be/wZoiDUmVkLA)
